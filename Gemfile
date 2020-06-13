@@ -13,4 +13,8 @@ group :development do
   gem 'pry'
   gem 'tux'
   gem 'sqlite3', '~> 1.3.6'
+<<<<<<< HEAD
   end
+=======
+  end
+>>>>>>> f03f51bd6be4c19825fb28f0260f9d20dbb26e54
